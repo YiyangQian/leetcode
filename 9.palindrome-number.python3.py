@@ -55,4 +55,8 @@ class Solution:
             revert = 10 * revert + tempt % 10 
             tempt = tempt // 10 
         return x == revert
-    
+
+# solution = Solution()
+# print(solution.isPalindrome(121))
+
+print(Solution.isPalindrome(None, 121))
