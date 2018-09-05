@@ -68,5 +68,4 @@ class Solution:
 
 s = Solution()
 print(s.threeSum([-1,0,1,2,-1,-4]))
-# print(s.getMatchTwo([-3, -1, -1, 1, 2, 4], 3, 1))
 
