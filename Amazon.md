@@ -1,4 +1,4 @@
-- [] 149        Max Points on a Line  15.3%        Hard
+- [ ] 149        Max Points on a Line  15.3%        Hard
 - [] 126        Word Ladder II 15.9%        Hard-baidu 
 - [] 564        Find the Closest Palindrome 17.3%        Hard
 - [] 44        Wildcard Matching 21.7%        Hard
