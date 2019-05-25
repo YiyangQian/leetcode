@@ -1,9 +1,9 @@
-- [ ] 149        Max Points on a Line  15.3%        Hard
+- [x] 149        Max Points on a Line  15.3%        Hard
 - [ ] 126        Word Ladder II 15.9%        Hard-baidu 
-- [ ] 564        Find the Closest Palindrome 17.3%        Hard
-- [ ] 44        Wildcard Matching 21.7%        Hard
+- [x] 564        Find the Closest Palindrome 17.3%        Hard
+- [x] 44        Wildcard Matching 21.7%        Hard
 - [ ] 185        Department Top Three Salaries 21.7%        Hard
-- [ ] 146        LRU Cache 22.0%        Hard
+- [x] 146        LRU Cache 22.0%        Hard
 - [ ] 30        Substring with Concatenation of All Words 22.5%        Hard
 - [ ] 273        Integer to English Words 23.3%        Hard
 - [ ] 32        Longest Valid Parentheses 24.1%        Hard
