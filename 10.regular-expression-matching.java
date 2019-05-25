@@ -81,6 +81,16 @@
  * 
  * 
  */
+// dp solution 
+// dp[s.length][p.length]
+// if s[i] == p[j] || p[j] == '.'  dp[i][j] = dp[i-1][j-1]
+// if p[j] == '*' 
+//         if (p[j - 1] != s[i - 1]) dp[i][j] = dp[i][j - 2]
+//         if (p[j - 1] == s[i - 1] || p[j - 1] == '.')
+//                dp[i][j - 2]     * as 0
+//            ||  dp[i][j - 1]     * as 1
+//            ||  dp[i - 1][j]     * as multiple times
+
 class Solution {
     public boolean isMatch(String s, String p) {
         if (p.length() == 0) return s.length() == 0;

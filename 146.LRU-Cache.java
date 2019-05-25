@@ -48,6 +48,15 @@ class LRUCache {
         int value;
         Node pre;
         Node next;
+
+        Node() {
+            
+        }
+
+        Node(int a, int b) {
+            key = a;
+            value = b;
+        }
     }
     
     class DoubleLinkedList {
@@ -118,9 +127,7 @@ class LRUCache {
             l.remove(cur);
             l.insertToFront(cur);
         } else {
-            cur = new Node();
-            cur.key = key;
-            cur.value = value;
+            cur = new Node(key, value);
             map.put(key, cur);
             l.insertToFront(cur);
             if (l.size > CAPACITY) {

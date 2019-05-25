@@ -4,11 +4,11 @@
 - [x] 44        Wildcard Matching 21.7%        Hard
 - [ ] 185        Department Top Three Salaries 21.7%        Hard
 - [x] 146        LRU Cache 22.0%        Hard
-- [ ] 30        Substring with Concatenation of All Words 22.5%        Hard
-- [ ] 273        Integer to English Words 23.3%        Hard
-- [ ] 32        Longest Valid Parentheses 24.1%        Hard
-- [ ] 4        Median of Two Sorted Arrays 24.2%        Hard
-- [ ] 10        Regular Expression Matching 24.4%        Hard
+- [x] 30        Substring with Concatenation of All Words 22.5%        Hard
+- [x] 273        Integer to English Words 23.3%        Hard
+- [x] 32        Longest Valid Parentheses 24.1%        Hard
+- [x] 4        Median of Two Sorted Arrays 24.2%        Hard
+- [x] 10        Regular Expression Matching 24.4%        Hard
 - [ ] 188        Best Time to Buy and Sell Stock IV 25.4%        Hard. check  for more.
 - [ ] 140        Word Break II 25.7%        Hard
 - [ ] 132        Palindrome Partitioning II 25.9%        Hard
